@@ -1,4 +1,4 @@
-# 📊 Marketing Mix Model with Causal Mediation
+#  Marketing Mix Model with Causal Mediation
 
 This project analyzes **two years of weekly sales data** to understand the drivers of revenue for a business.  
 The primary goal is to build a machine learning model that quantifies the impact of various marketing channels  
@@ -12,14 +12,14 @@ This relationship is modeled using a **two-stage regression approach** to separa
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 .
 ├── data/
 │ └── Assessment 2 - MMM Weekly.csv
 ├── MMM_Causal_Analysis.ipynb
 └── README.md
 
-## ⚙️ Setup and Installation
+##  Setup and Installation
 
 This project uses **Python 3.10**.  
 It is recommended to use a virtual environment to manage dependencies.
