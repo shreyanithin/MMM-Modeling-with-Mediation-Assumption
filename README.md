@@ -13,7 +13,7 @@ This relationship is modeled using a **two-stage regression approach** to separa
 ---
 
 ##  Project Structure
-.
+
 ├── data/
 │ └── Assessment 2 - MMM Weekly.csv
 ├── MMM_Causal_Analysis.ipynb
